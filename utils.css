@@ -1,0 +1,31 @@
+
+.flex{
+  display: flex;
+}
+.align-center{
+  align-items: center;
+}
+.justify-center{
+  justify-content: center;
+}
+.space-between{
+  justify-content: space-between;
+}
+.space-evenly{
+  justify-content: space-evenly;
+}
+.fldr{
+  flex-direction: row;
+}
+.fldc{
+  flex-direction: column;
+}
+.uppercase{
+  text-transform: uppercase;
+}
+banner{
+    height: 86px;
+    background: red;
+    display: flex;
+    align-items: flex-end;
+}
